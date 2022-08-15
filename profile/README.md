@@ -1,15 +1,14 @@
-## Hi there 👋
+##  Links and Resources 
 
+### Repos
 
-[Project Prep Repo](https://github.com/Code-Cellos/project-prep)
+- [Project Prep Repo](https://github.com/Code-Cellos/project-prep)
+- [RSS FRONTEND Repo](https://github.com/Code-Cellos/rss-frontend)
+- [RSS BACKEND Repo](https://github.com/Code-Cellos/rss-backend)
 
-<!--
+### Planning
 
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+- [Trello Board](https://trello.com/b/qvO2XL38)
+- [Wireframe]()
+- [Domain Model + Database Schema Diagram]()
+- [Software Requirements]()
