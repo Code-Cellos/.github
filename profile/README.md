@@ -9,6 +9,6 @@
 ### Planning
 
 - [Trello Board](https://trello.com/b/qvO2XL38)
-- [Wireframe]()
-- [Domain Model + Database Schema Diagram]()
+- [Wireframe](https://docs.google.com/drawings/d/1_8H-64qv9ejJnmcQxFMuH5rZOLju0Zacc0GUQIQXTRg/edit)
+- [Domain Model + Database Schema Diagram](https://docs.google.com/drawings/d/1BVNAJox3yzRtb1oh6bkAWL5lnfrGncbp092M9Ad1Lpg/edit)
 - [Software Requirements]()
